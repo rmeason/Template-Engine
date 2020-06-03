@@ -61,9 +61,9 @@ function generateHTML(input) {
                                     <div class="card-body text-dark">
                                         <div class="card" style="width: 16rem;">
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item" style="text-align:left"><strong>ID: </strong>${input.idManager ?input.idManager : " "}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Email: </strong>${input.emailManager ? input.emailManager : " "}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Office: </strong>${input.officeManager? input.officeManager : " "}
+                                                <li class="list-group-item" style="text-align:center"><strong>ID: </strong>${input.idManager ?input.idManager : " "}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Email: </strong>${input.emailManager ? input.emailManager : " "}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Office: </strong>${input.officeManager? input.officeManager : " "}
                                                 </li>
                                             </ul>
                                         </div>
@@ -80,9 +80,9 @@ function generateHTML(input) {
                                     <div class="card-body text-dark">
                                         <div class="card" style="width: 16rem;">
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item" style="text-align:left"><strong>ID: </strong>${input.idEngineer1}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Email: </strong>${input.emailEngineer1}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Github: </strong>${input.githubEngineer1}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>ID: </strong>${input.idEngineer1}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Email: </strong>${input.emailEngineer1}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Github: </strong>${input.githubEngineer1}</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -98,9 +98,9 @@ function generateHTML(input) {
                                     <div class="card-body text-dark">
                                         <div class="card" style="width: 16rem;">
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item" style="text-align:left"><strong>ID: </strong>${input.idEngineer2}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Email: </strong>${input.emailEngineer2}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Github: </strong>${input.githubEngineer2}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>ID: </strong>${input.idEngineer2}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Email: </strong>${input.emailEngineer2}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Github: </strong>${input.githubEngineer2}</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -116,9 +116,9 @@ function generateHTML(input) {
                                     <div class="card-body text-dark">
                                         <div class="card" style="width: 16rem;">
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item" style="text-align:left"><strong>ID: </strong>${input.idIntern}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Email: </strong>${input.emailIntern}</li>
-                                                <li class="list-group-item" style="text-align:left"><strong>Lindkedin: </strong>${input.linkedinIntern}
+                                                <li class="list-group-item" style="text-align:center"><strong>ID: </strong>${input.idIntern}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Email: </strong>${input.emailIntern}</li>
+                                                <li class="list-group-item" style="text-align:center"><strong>Lindkedin: </strong>${input.linkedinIntern}
                                                 </li>
                                             </ul>
                                         </div>
